@@ -1,0 +1,15 @@
+[
+  {
+    "name": "乃乇ズ乙のり",
+    "phoneNumber": "+998936870850",
+    "username": "bekhdev",
+    "chatId": "280838813",
+    "language": "RU",
+    "state": "ADMIN_USER_ENTER_PHONE_NUMBER",
+    "role": "ADMIN",
+    "isAdmin": true,
+    "id": "3ea62eff-1eca-4f2b-88e3-8948f77d4ee7",
+    "isActive": true,
+    "createdDate": "2021-12-20T15:00:57.968637"
+  }
+]

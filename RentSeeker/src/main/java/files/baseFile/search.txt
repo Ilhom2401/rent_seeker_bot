@@ -1,0 +1,28 @@
+[
+  {
+    "userId": "5dc3576d-7a20-4e28-8031-283017b098f0",
+    "region": "TASHKENT",
+    "district": "OLMAZOR",
+    "status": "RENT",
+    "homeType": "FLAT",
+    "numberOfRooms": 3,
+    "minPrice": 1000.0,
+    "maxPrice": -1.0,
+    "id": "c501bdcf-7939-4ae3-8cfc-e0c4a7329cdd",
+    "isActive": true,
+    "createdDate": "2021-12-20T14:46:45.946172"
+  },
+  {
+    "userId": "45dd2281-7574-49e8-ad86-11dfa161173b",
+    "region": "SURKHANDARYA",
+    "district": "QUMQORGON",
+    "status": "RENT",
+    "homeType": "HOUSE",
+    "numberOfRooms": 4,
+    "minPrice": 500.0,
+    "maxPrice": 1000.0,
+    "id": "9b97dc3e-de98-4dba-bd4b-bfec9bf1467d",
+    "isActive": true,
+    "createdDate": "2021-12-20T14:54:31.531655"
+  }
+]

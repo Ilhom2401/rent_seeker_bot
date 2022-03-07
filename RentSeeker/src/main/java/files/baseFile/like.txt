@@ -1,0 +1,16 @@
+[
+  {
+    "homeId": "177e967f-1f23-4e40-b63f-864748b64e33",
+    "userId": "5dc3576d-7a20-4e28-8031-283017b098f0",
+    "id": "21df0cc4-2d37-4e1c-a2de-3516ad51dbe5",
+    "isActive": true,
+    "createdDate": "2021-12-20T14:46:09.169341"
+  },
+  {
+    "homeId": "177e967f-1f23-4e40-b63f-864748b64e33",
+    "userId": "98e51e26-a808-4ec3-b694-dd38ba9827d6",
+    "id": "01b89d8b-72e5-4f0b-b941-4496c74f21a1",
+    "isActive": false,
+    "createdDate": "2021-12-20T14:51:02.032135"
+  }
+]
